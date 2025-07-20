@@ -70,7 +70,7 @@ section{
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("E:/PROJECTS/portifolio_new/Image/background_tw.png");
+    background-image: url("background_tw.png");
     /* background-image: url("E:/Lewis Karimi Portifolio/Image/background.png"); */
     background-size: cover;
     background-position: center;
